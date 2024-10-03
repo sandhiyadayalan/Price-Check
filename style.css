@@ -1,0 +1,97 @@
+html {
+    margin: 0;
+}
+
+.header {
+    background-color: #c81620;
+    display: block;
+    width: 100%;
+    height: 100px;
+    display: flex;
+
+}
+
+.header .container1 select {
+    height: 50px;
+    padding: 5px;
+    margin-top: 10px;
+    background-color: #c81620;
+    border: 0;
+    color: white;
+
+}
+
+span {
+    color: white;
+    margin-left: 10px;
+}
+
+.header img {
+    margin-left: 100px;
+    margin-top: 10px;
+    width: 200px;
+    height: 50px;
+}
+
+.container1 {
+    margin-left: auto;
+    margin-right: 140px;
+}
+
+button {
+    background-color: black;
+    color: white;
+    width: 100px;
+    height: 30px;
+    padding: 5px;
+    margin-top: 20px;
+    margin-left: 10px;
+    border-radius: 5px;
+}
+
+#but1 {
+    border: 1px solid white;
+    background-color: #c81620;
+}
+
+p {
+    color: white;
+    margin-left: 100px;
+    font-size: 20px;
+    margin-top: 0;
+}
+
+h1 {
+    color: white;
+    margin-left: 100px;
+    margin-top: 0px;
+    padding-top: 60px;
+}
+
+.secondpart {
+    display: block;
+    width: 100%;
+    height: 200px;
+    background-color: #c81620;
+    margin: 0;
+}
+
+.thirdpart {
+    width: 100%;
+    height: 330px;
+    background-color: white;
+}
+
+#para1 {
+    color: black;
+    font-weight: bold;
+    font-size: 50px;
+    padding-top: 30px;
+    padding-right: 90px;
+}
+
+#para2 {
+    color: black;
+    font-size: 25px;
+    padding-top: 20px;
+}
